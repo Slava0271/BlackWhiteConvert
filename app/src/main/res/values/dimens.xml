@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="text_size">18sp</dimen>
+    <dimen name="sixteen_sp">60sp</dimen>
+    <dimen name="button_width">240sp</dimen>
+    <dimen name="twenty_sp">20sp</dimen>
+</resources>
